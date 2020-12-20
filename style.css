@@ -1,0 +1,104 @@
+body {
+    background-color: #2C303D;
+}
+.title {
+	text-align: left;
+	color: #D6DBEE;
+  font-family: JetBrains Mono;
+  src: url("https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/ttf/JetBrainsMono-Regular.ttf");
+  font-size: 25px;
+  position: relative;
+  left:10%;
+  width: 80%;
+}
+
+.subtitle {
+  font-size: 18px;
+}
+
+.content {
+  text-align: left;
+	color: #D6DBEE;
+  font-family: JetBrains Mono;
+  src: url("https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/ttf/JetBrainsMono-Regular.ttf");
+  font-size: 14px;
+  position: relative;
+  top:20px;
+  left:10%;
+  width: 80%;
+}
+
+.console{
+  text-align: left;
+  color: #FFFFFF;
+  font-family: JetBrains Mono;
+  src: url("https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/ttf/JetBrainsMono-Regular.ttf");
+  font-size: 14px;
+  position: relative;
+  top: 25px;
+  left: 10%;
+  background-color: #000000;
+  overflow: auto;
+  height: 400px;
+  width: 80%
+
+}
+
+.inConsole{
+  position: relative;
+  left: 5%;
+  top:5%;
+  width: 90%
+}
+
+.button{
+  border: none;
+  color: #000000;
+  background-color: #aaaaaa;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 0px;
+  cursor: pointer;
+  position: relative;
+
+  width: 10%;
+  left: 40%;
+  bottom: 30%;
+}
+
+.button1{
+  border: none;
+  color: #000000;
+  background-color: #aaaaaa;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 0px;
+  cursor: pointer;
+  position: relative;
+
+  height: 30px;
+  width: 10%;
+  left: 20%;
+}
+
+.button2{
+  border: none;
+  color: #000000;
+  background-color: #aaaaaa;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 0px;
+  cursor: pointer;
+  position: relative;
+
+  top:60px;
+  height:30px;
+  width: 10%;
+  left: 60%;
+}
